@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">miriwadi</string>
+
+    <string-array name="type">
+        <item>Slippers</item>
+        <item>Sandals</item>
+        <item>Running Shoes</item>
+        <item>Boot Types</item>
+    </string-array>
+
+    <string-array name="reuse">
+        <item>Reuse</item>
+        <item>Recycle</item>
+    </string-array>
+</resources>
